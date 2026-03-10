@@ -1,0 +1,55 @@
+{
+  "name": "mcp-java-backend-suite",
+  "version": "0.1.0",
+  "description": "Complete MCP suite for Java backend developers — database analysis, JVM diagnostics, migration risk, Spring Boot actuator analysis, and Redis diagnostics",
+  "author": "Dmytro Lisnichenko",
+  "license": "MIT",
+  "type": "module",
+  "main": "./bin/config.js",
+  "bin": {
+    "mcp-java-backend-suite": "./bin/config.js"
+  },
+  "scripts": {
+    "postinstall": "echo '✓ MCP Java Backend Suite installed. Run: npx mcp-java-backend-suite config'"
+  },
+  "files": [
+    "bin/**/*.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "java",
+    "jvm",
+    "spring-boot",
+    "postgresql",
+    "mysql",
+    "database",
+    "diagnostics",
+    "migration",
+    "actuator",
+    "redis",
+    "ai",
+    "claude",
+    "suite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dmitriusan/mcp-java-backend-suite"
+  },
+  "homepage": "https://github.com/Dmitriusan/mcp-java-backend-suite#readme",
+  "bugs": {
+    "url": "https://github.com/Dmitriusan/mcp-java-backend-suite/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mcp-db-analyzer": "^0.2.0",
+    "mcp-jvm-diagnostics": "^0.1.0",
+    "mcp-migration-advisor": "^0.2.0",
+    "mcp-spring-boot-actuator": "^0.1.0",
+    "mcp-redis-diagnostics": "^0.1.0"
+  }
+}
