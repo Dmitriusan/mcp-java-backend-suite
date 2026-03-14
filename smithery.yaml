@@ -1,6 +1,6 @@
 name: mcp-java-backend-suite
 displayName: Java Backend Suite
-description: Complete MCP suite for Java backend developers — database analysis, JVM diagnostics, migration risk, Spring Boot actuator analysis, and Redis diagnostics
+description: Connects Claude Code and Cursor to your entire Java backend stack — PostgreSQL/MySQL/SQLite schema analysis, JVM diagnostics, Flyway/Liquibase migration risk, Spring Boot Actuator monitoring, and Redis diagnostics in one install
 version: 0.1.2
 license: MIT
 homepage: https://github.com/Dmitriusan/mcp-java-backend-suite
