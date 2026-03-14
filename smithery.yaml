@@ -1,0 +1,23 @@
+name: mcp-java-backend-suite
+displayName: Java Backend Suite
+description: Complete MCP suite for Java backend developers — database analysis, JVM diagnostics, migration risk, Spring Boot actuator analysis, and Redis diagnostics
+version: 0.1.2
+license: MIT
+homepage: https://github.com/Dmitriusan/mcp-java-backend-suite
+npm: mcp-java-backend-suite
+categories:
+  - developer-tools
+  - java
+  - monitoring
+  - databases
+keywords:
+  - java
+  - jvm
+  - spring-boot
+  - database
+  - redis
+  - diagnostics
+  - suite
+note: Meta-package. Installs and configures all 5 Leaven MCP servers. Tools are provided by the individual servers — see mcp-jvm-diagnostics, mcp-redis-diagnostics, mcp-spring-boot-actuator, mcp-db-analyzer, mcp-migration-advisor.
+transport:
+  - stdio
