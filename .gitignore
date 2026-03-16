@@ -7,4 +7,6 @@ build/
 Thumbs.db
 *.log
 coverage/
+# Exclude Claude Code config from public repo
+CLAUDE.md
 .claude/
