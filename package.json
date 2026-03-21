@@ -1,6 +1,6 @@
 {
   "name": "mcp-java-backend-suite",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Complete MCP suite for Java backend developers — database analysis, JVM diagnostics, migration risk, Spring Boot actuator analysis, and Redis diagnostics",
   "mcpName": "Java Backend Suite",
   "author": "Dmytro Lisnichenko",
@@ -49,7 +49,7 @@
   "dependencies": {
     "mcp-db-analyzer": "^0.2.4",
     "mcp-jvm-diagnostics": "^0.1.4",
-    "mcp-migration-advisor": "^0.2.4",
+    "mcp-migration-advisor": "^0.2.5",
     "mcp-spring-boot-actuator": "^0.1.5",
     "mcp-redis-diagnostics": "^0.1.4"
   }
