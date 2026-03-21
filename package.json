@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "mcp-db-analyzer": "^0.2.4",
-    "mcp-jvm-diagnostics": "^0.1.4",
+    "mcp-jvm-diagnostics": "^0.1.5",
     "mcp-migration-advisor": "^0.2.5",
     "mcp-spring-boot-actuator": "^0.1.5",
     "mcp-redis-diagnostics": "^0.1.4"
