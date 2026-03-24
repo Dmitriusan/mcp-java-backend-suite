@@ -51,6 +51,6 @@
     "mcp-jvm-diagnostics": "^0.1.5",
     "mcp-migration-advisor": "^0.2.6",
     "mcp-spring-boot-actuator": "^0.1.6",
-    "mcp-redis-diagnostics": "^0.1.5"
+    "mcp-redis-diagnostics": "^0.1.6"
   }
 }
