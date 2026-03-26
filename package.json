@@ -50,7 +50,7 @@
     "mcp-db-analyzer": "^0.2.6",
     "mcp-jvm-diagnostics": "^0.1.7",
     "mcp-migration-advisor": "^0.2.7",
-    "mcp-spring-boot-actuator": "^0.1.7",
+    "mcp-spring-boot-actuator": "^0.1.8",
     "mcp-redis-diagnostics": "^0.1.7"
   }
 }
