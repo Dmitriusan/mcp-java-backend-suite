@@ -47,9 +47,9 @@
     "node": ">=18"
   },
   "dependencies": {
-    "mcp-db-analyzer": "^0.2.10",
-    "mcp-jvm-diagnostics": "^0.1.9",
-    "mcp-migration-advisor": "^0.2.10",
+    "mcp-db-analyzer": "^0.2.11",
+    "mcp-jvm-diagnostics": "^0.1.10",
+    "mcp-migration-advisor": "^0.2.11",
     "mcp-spring-boot-actuator": "^0.1.11",
     "mcp-redis-diagnostics": "^0.1.10"
   }
